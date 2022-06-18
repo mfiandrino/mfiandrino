@@ -1,6 +1,7 @@
 ### Hello World! I'm Maxi 👋
 
 - 📚 I'm an Information Systems Engineering student at the [National Technological University](http://www.sistemas.frba.utn.edu.ar/).
+- 🔭 I'm looking to be a back-end dev with front-end knowledge.
 - 🌱 Currently learning front-end dev at [MDN](https://developer.mozilla.org/es/) and [FreeCodeCamp](https://www.freecodecamp.org/)
 - :computer: Also complementing and learning new things at [Platzi](https://platzi.com/)
 - 📫 How to find me:
